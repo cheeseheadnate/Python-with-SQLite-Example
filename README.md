@@ -1,4 +1,4 @@
-#SQLite Database Example
+# SQLite Database Example
 
   1. Creates table "gta". 
   2. Populates it with 3 fields which are (integer, text, text). 
